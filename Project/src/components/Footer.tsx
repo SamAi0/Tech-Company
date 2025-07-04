@@ -88,7 +88,7 @@ const Footer = () => {
             © 2025 Hari Om Thalassic. All rights reserved.
           </p>
           <p className="text-gray-400 text-sm mt-2 md:mt-0">
-            Made by Sam
+            Made by SamAi
           </p>
         </div>
       </div>

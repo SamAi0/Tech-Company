@@ -27,9 +27,9 @@ const Contact = () => {
       formData,
       'YOUR_PUBLIC_KEY'
     )
-    .then((result) => {
+    .then(() => {
       setIsSubmitted(true);
-    }, (error) => {
+    }, () => {
       alert('Failed to send message. Please try again.');
     });
   };

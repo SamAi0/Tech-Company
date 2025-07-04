@@ -20,13 +20,12 @@ const Hero = () => {
             </div>
             
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-              Craft Digital
+              Hari Om Thalassic
               <span className="bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent"> Excellence</span>
             </h1>
             
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-              Transform your business with our cutting-edge digital solutions. We create stunning websites, 
-              mobile apps, and digital experiences that drive results.
+              Transform your business with our cutting-edge digital solutions. We create stunning websites and mobile apps that drive results.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
